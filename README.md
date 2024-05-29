@@ -175,6 +175,7 @@
 | CVE-2019-11151            | Memory corruption issues in Intel(R) WIFI Drivers before version 21.40 may allow a privileged user to potentially enable escalation of privilege, denial of service, and information disclosure via local access. | [ANALYZING A TRIO OF REMOTE CODE EXECUTION BUGS IN INTEL WIRELESS ADAPTERS](https://www.zerodayinitiative.com/blog/2020/5/4/analyzing-a-trio-of-remote-code-execution-bugs-in-intel-wireless-adapters) |
 | CVE-2019-15126<br>Kr00k   | is a vulnerability in Broadcom and Cypress Wi-Fi chips that allows unauthorized decryption of some WPA2-encrypted traffic. | [Wi-Fi WPA2 “Kr00k”窃密漏洞分析与复现](https://www.secrss.com/articles/18174) |
 | CVE-2022-23088            | CVE-2022-23088: EXPLOITING A HEAP OVERFLOW IN THE FREEBSD WI-FI STACK | [Zero Day Initiative — CVE-2022-23088: Exploiting a Heap Overflow in the FreeBSD Wi-Fi Stack](https://www.zerodayinitiative.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack) |
+| CVE-2023-52424<br>SSID Confusion | By creating a malicious SSID that exactly matches a legitimate one, attackers can confuse devices into connecting to the wrong network, potentially leading to data interception. | [Top10VPN - CVE-2023-52424 WiFi Vulnerability: The SSID Confusion Attack](https://www.top10vpn.com/research/wifi-vulnerability-ssid/) |
 
 
 # Related Resources
